@@ -1,0 +1,3 @@
+# Marker Tracking
+
+This is the marker tracking part of the projekt. The module detects and tracks ChArUco markers by using the Aruco module of OpenCV. The [module](MarkerTracking.py) connects to the WP1 server via the specified host in the [config file](config.txt). It then sends the estimated pose periodically. The communicated translation is scaled by a constant factor which can be increased and decreased using '+' and '-' respectively. 

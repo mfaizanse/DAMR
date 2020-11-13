@@ -1,0 +1,19 @@
+{
+	"CameraId": 0,
+	"f_x": 730.958,
+	"f_y": 730.958,
+	"c_x": 473.152,
+	"c_y": 350.498,
+	"k_1": 0.176331,
+	"k_2": -0.657246,
+	"k_3": 0.766896,
+	"p_1": 0.0,
+	"p_2": 0.0,
+	"CheckerboardSize": 0.036,
+	"MarkerSize": 0.024,
+	"CharucoWidth": 6,
+	"CharucoHeight": 8,
+	"CornerRefinementMethod": "none",
+	"host": "10.152.127.38",
+	"port": 5002
+}

@@ -1,0 +1,6 @@
+Intrinsic K:
+1066.7780          0  312.9869
+        0  1067.4870  241.3109
+		
+Screen Size:
+width 640 height 480
